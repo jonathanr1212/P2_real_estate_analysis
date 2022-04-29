@@ -11,7 +11,7 @@ The data provided was from the King County Sales Dataset. It contained 21597 row
 The Analysis used linear regression. The model started intially with a simple linear regression and ended up evolving into a multivariable linear regression with 9 features. 
 
 ## Regression Results
-![](images/Screenshot%202022-04-28%20140137.png)
+![](images/Screenshot_2022-04-28_140137.png)
 
 
 
