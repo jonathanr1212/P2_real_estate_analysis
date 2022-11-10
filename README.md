@@ -1,5 +1,5 @@
 ## Overview
-This project analyzes the resource needs of an untitled Microsoft movie company, which wants to jump into the original video content space. Information from the datasets came from movie tracking websites. Descriptive analysis is done to figure what movies should the company make to be successful in the box office.
+This project uilizes Linear Regression to predict the value impact of features of a home in a particular area.
 
 ## Business Problem
 A real estate firm wants to help their clients (Homeowners) sell their homes at a great price. The analysis can help show correlations between what drives the value of a home and may advise the homeowner to make the necessary upgrades to get better value for their homes.
